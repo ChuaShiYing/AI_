@@ -1,0 +1,11 @@
+streamlit
+transformers
+sentencepiece
+sacrebleu
+accelerate
+pandas
+numpy
+tqdm
+torch
+jieba
+nltk

@@ -1,0 +1,1 @@
+{"dev_bleu": 0.0773632640234755, "weights": {"W_PHRASE": 1.0, "W_LEX": 1.0, "W_LM": 1.0, "W_WORD_PENALTY": -0.1, "MAX_JUMP": 3, "DIST_PENALTY": -0.2}}
